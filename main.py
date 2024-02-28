@@ -152,5 +152,6 @@ while run:
     # mainmenu.flip(events)
     pygame.display.flip()
 pygame.quit()
+print("Привет, Жанара")
 
 
